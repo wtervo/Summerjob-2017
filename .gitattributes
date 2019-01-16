@@ -1,1 +1,2 @@
-*.rb linguist-language=IDL
+#change .pro files in repo to be recognized as IDL language
+*.pro linguist-language=IDL
